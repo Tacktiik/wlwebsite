@@ -1,0 +1,77 @@
+body{
+
+	background-color:#181818;
+}
+
+@font-face {
+    font-family: 'Norwester';
+    src: url('norwester.otf');
+}
+
+@font-face {
+    font-family: 'Pacifico';
+    src: url('pacifico.ttf');
+}
+
+@font-face {
+    font-family: 'Lobster';
+    src: url('Lobster.otf');
+}
+
+h1{
+
+	font-family: 'Lobster';
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+	font-size: 100px;
+
+}
+
+h2{
+	color: white;
+	margin-top: 40px;
+	font-family: 'Norwester';
+
+}
+
+div.separateur{
+
+	border: 1px dashed white;
+}
+
+div#form-position{
+
+	margin-top: 20px;
+} 
+
+.btn-success, .btn-primary{
+
+	text-align: center;
+	margin:0 auto;
+	margin-left: 418px;
+	font-family: 'Norwester';
+	font-size: 25px;
+	text-shadow: 1px 1px black;
+
+}
+
+p{
+
+	text-align: center;
+	font-family: 'Pacifico';
+	font-size:22px;
+	color: white;
+}
+
+p.confirm-menu{
+
+	text-align: center;
+	font-family: 'Norwester';
+
+}
+
+.btn-primary{
+
+	margin-left: 490px;
+}
